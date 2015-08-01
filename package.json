@@ -8,7 +8,7 @@
   "preferGlobal": true,
   "dependencies": {
     "async": "~0.7.0",
-    "ds-store": "~0.1.4",
+    "ds-store": "Ivshti/node-ds-store",
     "fs-xattr": "Ivshti/fs-xattr",
     "image-size": "~0.2.3",
     "minimist": "~0.0.8",
